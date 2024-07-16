@@ -1,0 +1,9 @@
+Simulating Back-EMF Voltage:
+Create a simple model to simulate the back-EMF profile of a three-phase BLDC motor.
+In Simulink, set up a scenario where the motor shaft is turned while all three phases have open terminals.
+Measure the voltage produced at one of the phases to observe the back-EMF.
+
+Modeling a Three-Phase Inverter:
+Build a model to convert DC power to three-phase currents for controlling a BLDC motor.
+Drive the motor by energizing the coil pairs using the inverter model.
+Focus on the control algorithm, including the three-phase inverter and commutation logic.
